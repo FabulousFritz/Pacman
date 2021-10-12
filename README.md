@@ -1,4 +1,4 @@
-## Personal Pacman recreation
+## Pacman Recreation
 
 This is an interactive game based of the classic arcade game, Pacman.
 
