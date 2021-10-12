@@ -1,0 +1,8 @@
+
+.root{
+	-fx-background-image: url(Background.png);
+	-fx-background-size: 400 400;
+	-fx-cursor: hand;
+    -fx-background-position: center;
+    
+	}
